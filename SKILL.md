@@ -73,9 +73,9 @@ openclaw skill install lucky-deploy.skill
 ```
 
 ### 分享给别人
-1. 发送 `lucky-deploy.skill` 文件
-2. 对方放置到他们的 `~/.openclaw/skills/` 目录
-3. 重启 OpenClaw 或运行 `openclaw skill reload`
+1. 推送代码到 GitHub，或发送 `lucky-deploy.skill` 文件
+2. 对方克隆/解压到 `~/.openclaw/skills/` 目录
+3. 配置 `VERCEL_TOKEN` 后即可使用
 
 ## 项目结构
 

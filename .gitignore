@@ -2,5 +2,8 @@ node_modules/
 projects/
 *.skill
 .env
+.env.*
 .DS_Store
 .vercel
+deploy-history.json
+VERSION
